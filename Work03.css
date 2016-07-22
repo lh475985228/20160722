@@ -1,0 +1,30 @@
+	  #boss{
+	    	width: 298px;
+	    	height: 396px;
+	    	border:1px solid hotpink;
+	    }
+.div3,.div5{
+	   		height: 126px;
+	    	background: #f7f7f7 no-repeat url(../images/bg03.png);
+	    }
+.div2,.div4{
+			height: 57px;
+	   		background: white no-repeat url(../images/bg03.png);
+	   		border-top: 1px solid #f7f7f7;
+	    }
+	  .div1{
+    	    height: 29px;
+    	    background: #f7f7f7 no-repeat;
+	    }
+	  .div2{
+	   		background-position: 16px 21px;
+	    }
+	  .div3{
+	    	background-position: 8px -32px;
+	    }
+	  .div4{
+	   	    background-position: 15px -163px;
+	    }
+	  .div5{
+		    background-position: 13px -236px;
+	    }

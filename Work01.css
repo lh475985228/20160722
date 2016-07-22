@@ -1,0 +1,25 @@
+#boss{
+      width: 277px;
+   }
+#div1{ 
+      height: 206px;
+      background:url(../images/weather.png);
+      border-left: 1px solid #04abf2;
+      border-bottom: 1px solid #102598;
+   }
+#div2,#div3,#div4{
+      height: 39px;
+      background: #0666d7 no-repeat url(../images/bg01.png);
+      border-top:1px solid #04abf2;
+      border-bottom: 1px solid #102598; 
+      border-left: 1px solid #102598;
+  }
+#div2{
+      background-position:228px 7px;
+   }
+#div3{
+      background-position: 228px -34px;
+   }
+#div4{
+      background-position:228px -74px;
+   }

@@ -1,0 +1,28 @@
+     div{
+            width: 244px;
+            height: 51px;
+   	      border-top: 1px solid #f7f7f7;
+   	      border-bottom: 1px solid #f7f7f7;
+   	      background:no-repeat url(../images/bg.png);
+   }
+   .div1{
+   	     background-position: 21px 15px;
+   }
+   .div2{
+   	     background-position: 21px -33px;
+   }
+   .div4{
+		     background-position: 21px -127px;
+	}
+   .div5{
+   	     background-position: 21px -174px;
+   }
+   .div3 {
+	   	width: 242px;
+         background-color: #f7f7f7;
+	   	background-position:19px -80px ;
+	   	border-left: 2px solid #cb6b2f;
+	}
+   .div6 {
+			background-position: 21px -221px ;
+   		}
